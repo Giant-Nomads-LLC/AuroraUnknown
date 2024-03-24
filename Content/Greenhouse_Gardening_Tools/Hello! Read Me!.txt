@@ -1,0 +1,69 @@
+Hello there, awesome person, who bought my art! Thank You for the purchase!
+I hope there will be no problems loading and managing assets of this pack.
+If there still is something wrong, please, contact me directly.
+
+My email: Ieva.lickiene@gmail.com
+
+Have a nice experience! Eat well, sleep well and be nice to Your Mom! ;D 
+
+Best Regards,
+Ieva
+
+-----------------------------------------------------------------------------------------------------------------------
+
+The whole info about the model is bellow.
+
+- Greenhouse Gardening Tools -
+
+A pack of lowpoly old school Garden tools alongside with two types of Greenhouses, Tomato and Cucumber Plants/Fruits and other typical backyard decorations.
+
+- Pack contains 52 static meshes and 54 Blueprints.
+- LODs: 0 LODs
+- Models are low poly.
+- 11 Materials.
+- Models are polygonal (quads and tris).
+- For easy use objects are named logically (using English language).
+- Models are UV mapped and unwrapped (non-overlapping). 
+- Assets are fully textured (PBR), 2048x2048 .png's. Includes Base Color, Normal, Roughness/Metallic and Ambient Occlusion maps. 
+- File Formats:.fbx
+
+- Model Units - 
+.fbx exported in Centimeters.
+
+
+- Polygons, Tris and Vertices-
+
+- Basket -                  204 polys;   372 tris;   209 vertices.
+- BBQ/Poker -               938 polys; 1 760 tris;   899 vertices.
+- Bench -                   698 polys; 1 316 tris;   712 vertices.
+- Well/Bucket -           1 022 polys; 1 952 tris; 1 078 vertices.
+- CompostBox -              163 polys;   326 tris;   216 vertices.
+- CucumberPlant -         1 034 polys; 1 582 tris; 1 065 vertices.
+- CucumberPlant_w_Fruit - 1 502 polys; 2 438 tris; 1 525 vertices.
+- Flower_Fence -            128 polys;   248 tris;   176 vertices.
+- GardenTools -           1 272 polys; 2 318 tris; 1 355 vertices.
+- GlassGreenhouse -       1 571 polys; 2 906 tris; 1 855 vertices.
+- PlantCage -                12 polys;    24 tris;    24 vertices.
+- PlasticGreenhouse -       604 polys; 1 184 tris;   752 vertices.
+- PlasticBottle -           226 polys;   435 tris;   228 vertices.
+- Stick -                     6 polys;    12 tris;     8 vertices.
+- Swings -                  512 polys;   988 tris;   596 vertices.
+- Table -                   212 polys;   424 tris;   256 vertices.
+- TomatoPlant -             976 polys; 1 912 tris; 1 196 vertices.
+- TomatoPlant_w_Fruit -   2 098 polys; 3 872 tris; 2 233 vertices.
+- WateringCan -             320 polys;   607 tris;   324 vertices.
+- WaterTap_A -              642 polys; 1 242 tris;   654 vertices.
+- WaterTap_B -              340 polys;   670 tris;   343 vertices.
+- Wheelbarow -              628 polys; 1 168 tris;   612 vertices.
+- WoodStumps -              464 polys;   806 tris;   422 vertices.
+
+
+In total:                14 300 polys; 26 244 tris; 15 383 vertices.
+
+
+REMEMBER : If you need additional File Formats (obj, 3ds) or higher/lower resolution maps, contact Me! I will gladly provide them to You!
+
+
+
+
+Best of Luck! Have fun!
